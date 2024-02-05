@@ -23,7 +23,11 @@ const greeting = {
   logo_name: "Yasas Chandra Kakarla",
   nickname: "Code Breaker",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I'm a React Native Developer with Seven years of experience creating mobile apps for the iOS, Android, and Web platforms.",
+  subTitle2:
+    "My skills include proficiency in TypeScript, React, React Native, and other relevant technologies. I have experience in integrating various third-party libraries, API integration, push notifications and analytics.",
+  subTitle3:
+    "My field of Interest's are building new Technologies and Products.",
   resumeLink:
     "https://docs.google.com/document/d/1CJEryTC7NiEPdZOKP2UVKypxyvI-PEOW/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
   portfolio_repository: "https://github.com/Chandrakyc",
@@ -87,48 +91,57 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Mobile App Dvelopment",
+      title: "Web/Mobile App Development",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Proficient in specific programming languages to build applications tailored to the platform they are targeting",
+        "⚡ Good Experience in React.js for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts.",
+        "⚡ Experience in Cross-Platform Mobile Development using React Native + Typescript based mobile app",
+        "⚡ Used Code Push to deliver over the air updates as needed when new features were released or upgraded",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "React",
+          fontAwesomeClassname: "skill-icons:react-dark",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "Git",
+          fontAwesomeClassname: "devicon:git",
           style: {
             backgroundColor: "white",
             color: "#D00000",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Vscode",
+          fontAwesomeClassname: "devicon:vscode",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "Postman",
+          fontAwesomeClassname: "logos:postman-icon",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          skillName: "Node",
+          fontAwesomeClassname: "logos:nodejs",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
         },
+        // {
+        //   skillName: "Deeplearning",
+        //   imageSrc: "deeplearning_ai_logo.png",
+        // },
       ],
     },
     {
@@ -214,13 +227,13 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Deployment Architecture",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Using Xcode IDE for iOS app development, including debugging, profiling, and building app archives for distribution",
+        "⚡ I have used code push technology for managing versions and reflect the changes and deploy the latest build on app store and Google Play Store",
+        "⚡ Build, manage, and continuously improved the build infrastructure for software development engineering teams including implementation of build scripts, continuous integration infrastructure and deployment",
       ],
       softwareSkills: [
         {
@@ -748,8 +761,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Plano, Texas, USA",
+    subtitle: "Plano, Texas, USA",
     locality: "",
     country: "US",
     region: "Plano",
