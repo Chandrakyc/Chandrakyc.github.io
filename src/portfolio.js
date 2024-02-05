@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "YCK",
+  title: "Yasas Chandra Kakarla",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Yasas Chandra KakarlaPortfolio",
+    title: "Yasas Chandra Kakarla Portfolio",
     type: "website",
     url: "http://google.com/",
   },
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Yasas Chandra Kakarla",
   logo_name: "Yasas Chandra Kakarla",
-  nickname: "laymatestn_brother",
+  nickname: "laymatestigertn_brother",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
