@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b4c8c6f612aefd154b5a46803b0f406",
+    "revision": "b53e4f1e3f640a3603600e66d5704366",
     "url": "/index.html"
   },
   {
-    "revision": "5e07b272743ce89cb0b7",
+    "revision": "a16c8c278c7c9de19df7",
     "url": "/static/css/main.f5e71091.chunk.css"
   },
   {
-    "revision": "1903403ec533bae76a3b",
-    "url": "/static/js/2.7ee0b604.chunk.js"
+    "revision": "84aa550fc4cf7ab926b7",
+    "url": "/static/js/2.9b7b41ca.chunk.js"
   },
   {
-    "revision": "5e07b272743ce89cb0b7",
-    "url": "/static/js/main.ea7efb0c.chunk.js"
+    "revision": "a16c8c278c7c9de19df7",
+    "url": "/static/js/main.aae07019.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -204,6 +204,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iu_logo.60ed0bd3.png"
   },
   {
+    "revision": "be7bfd3a480e970c5fe21f75ecd44e02",
+    "url": "/static/media/jntuh.be7bfd3a.png"
+  },
+  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/static/media/jsFramework.5b4a6449.svg"
   },
@@ -254,6 +258,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "f010612655e9195deb1bbf417e8d0f3e",
+    "url": "/static/media/tamuc.f0106126.webp"
   },
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
