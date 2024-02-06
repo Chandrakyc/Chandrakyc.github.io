@@ -748,7 +748,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "profileyk.webp",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, React Native, IOS, Android, Test Automation, Deploment to App Store, Google Playstore and CI/CD Pipeline Development.",
   },
