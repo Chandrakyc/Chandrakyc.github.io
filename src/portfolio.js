@@ -539,7 +539,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as Mobile and Web Developer and Designer. I have also worked with some well established companies mostly as Full Stack React Developer. I love organising events and that is why I am also involved with many opensource communities as a representative. Currently Intrested in Learning in Prompt Engineering",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -547,36 +547,58 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Native/React Native Developer",
+          company: "State of Michigan",
+          company_url: "https://www.michigan.gov/som",
+          logo_path: "SOM.png",
+          duration: "July 2023 - Present",
+          location: "Lansing, Michigan",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "It is responsible for health policy and management of the state's publicly-funded health service systems.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "React Native Developer Developer",
+          company: "Microsoft",
+          company_url: "https://www.microsoft.com/en-us/",
+          logo_path: "microsoft.png",
+          duration: "March 2022 - Jun 2023",
+          location: "Seattle, Washington",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Miscrosoft  will develop and market software, services, and hardware that deliver new opportunities, greater convenience, and enhanced value to people's lives.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "React JS/ Native Developer",
+          company: "Neiman Marcus",
+          company_url: "https://www.neimanmarcusgroup.com/",
+          logo_path: "nmg.png",
+          duration: "Sep 2020 - Feb 2022",
+          location: "Irving, Texas",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Elevated the luxury shopping experience, offering the finest in fashion, shoes, handbags, jewelry, beauty and decorative items for the home.",
+          color: "#fc1f20",
+        },
+        {
+          title: "React Developer",
+          company: "Discover",
+          company_url: "https://www.discover.com/",
+          logo_path: "Discover.png",
+          duration: "Jan 2020 - Aug 2020",
+          location: "Chicago, Illinois",
+          description:
+            " Discover is an online bank providing one of the most attractive checking account offers in the industry.",
+          color: "#fc1f20",
+        },
+        {
+          title: "React Developer",
+          company: "Aspiration",
+          company_url: "https://www.aspiration.com/",
+          logo_path: "Aspiration.png",
+          duration: "Apr 2019 - Dec 2019",
+          location: "Irving, Texas",
+          description:
+            "Aspiration is a nonbank financial institution that offers the Spend and Save account, one that has both checking and savings features.",
           color: "#fc1f20",
         },
       ],
@@ -620,67 +642,67 @@ const experience = {
         },
       ],
     },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-          color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
-        },
-      ],
-    },
+    // {
+    //   title: "Volunteerships",
+    //   experiences: [
+    //     {
+    //       title: "Google Explore ML Facilitator",
+    //       company: "Google",
+    //       company_url: "https://about.google/",
+    //       logo_path: "google_logo.png",
+    //       duration: "June 2019 - April 2020",
+    //       location: "Hyderabad, Telangana",
+    //       description:
+    //         "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+    //       color: "#4285F4",
+    //     },
+    //     {
+    //       title: "Microsoft Student Partner",
+    //       company: "Microsoft",
+    //       company_url: "https://www.microsoft.com/",
+    //       logo_path: "microsoft_logo.png",
+    //       duration: "Aug 2019 - May 2020",
+    //       location: "Hyderabad, Telangana",
+    //       description:
+    //         "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+    //       color: "#D83B01",
+    //     },
+    //     {
+    //       title: "Mozilla Campus Captain",
+    //       company: "Mozilla",
+    //       company_url: "https://www.mozilla.org/",
+    //       logo_path: "mozilla_logo.png",
+    //       duration: "Oct 2019 - May 2020",
+    //       location: "Kurnool, Andhra Pradesh",
+    //       description:
+    //         "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+    //       color: "#000000",
+    //     },
+    //     {
+    //       title: "Developer Students Club Member",
+    //       company: "DSC IIITDM Kurnool",
+    //       company_url:
+    //         "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
+    //       logo_path: "dsc_logo.png",
+    //       duration: "Jan 2018 - May 2020",
+    //       location: "Kurnool, Andhra Pradesh",
+    //       description:
+    //         "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+    //       color: "#0C9D58",
+    //     },
+    //     {
+    //       title: "Developer Program Member",
+    //       company: "Github",
+    //       company_url: "https://github.com/",
+    //       logo_path: "github_logo.png",
+    //       duration: "July 2019 - PRESENT",
+    //       location: "Work From Home",
+    //       description:
+    //         "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+    //       color: "#181717",
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -748,7 +770,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profileyk.webp",
+    profile_image_path: "me.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, React Native, IOS, Android, Test Automation, Deploment to App Store, Google Playstore and CI/CD Pipeline Development.",
   },
