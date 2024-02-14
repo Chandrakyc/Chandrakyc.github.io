@@ -23,11 +23,11 @@
 </p>
 <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
-<p align="center"> 
+<!-- <p align="center">
     <a href="https://ashutosh1919.github.io" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
-</p>
+</p> -->
 
 :star: Star us on GitHub — it helps!
 
@@ -51,7 +51,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   ```bash
-   git clone https://github.com/ashutosh1919/masterPortfolio.git
+   git clone https://github.com/Chandrakyc/Chandrakyc.github.io
   ```
   This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -207,12 +207,12 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
-# Contributors ✨
+<!-- # Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<table> -->
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://ashutosh1919.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4?s=100" width="100px;" alt="Ashutosh Hathidara"/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a></td>
@@ -268,5 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # References 👏🏻
 
+<!--
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
+- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor. -->
