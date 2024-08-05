@@ -547,11 +547,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "React Native/ JS Developer",
+          company: "Verizon",
+          company_url: "https://www.verizon.com/about",
+          logo_path: "verizon.png",
+          duration: "Jan 2024 - Aug 2024",
+          location: "Dallas, Texas",
+          description:
+            "Engages in the provision of communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide.",
+          color: "#0879bf",
+        },
+        {
           title: "Native/React Native Developer",
           company: "State of Michigan",
           company_url: "https://www.michigan.gov/som",
           logo_path: "SOM.png",
-          duration: "July 2023 - Present",
+          duration: "Feb 2023 - Dec 2023",
           location: "Lansing, Michigan",
           description:
             "It is responsible for health policy and management of the state's publicly-funded health service systems.",
@@ -561,8 +572,8 @@ const experience = {
           title: "React Native Developer Developer",
           company: "Microsoft",
           company_url: "https://www.microsoft.com/en-us/",
-          logo_path: "microsoft.png",
-          duration: "March 2022 - Jun 2023",
+          logo_path: "micro.png",
+          duration: "May 2021 - Jan 2023",
           location: "Seattle, Washington",
           description:
             "Miscrosoft  will develop and market software, services, and hardware that deliver new opportunities, greater convenience, and enhanced value to people's lives.",
@@ -573,23 +584,23 @@ const experience = {
           company: "Neiman Marcus",
           company_url: "https://www.neimanmarcusgroup.com/",
           logo_path: "nmg.png",
-          duration: "Sep 2020 - Feb 2022",
+          duration: "Feb 2020 - April 2021",
           location: "Irving, Texas",
           description:
             "Elevated the luxury shopping experience, offering the finest in fashion, shoes, handbags, jewelry, beauty and decorative items for the home.",
           color: "#fc1f20",
         },
-        {
-          title: "React Developer",
-          company: "Discover",
-          company_url: "https://www.discover.com/",
-          logo_path: "Discover.png",
-          duration: "Jan 2020 - Aug 2020",
-          location: "Chicago, Illinois",
-          description:
-            " Discover is an online bank providing one of the most attractive checking account offers in the industry.",
-          color: "#fc1f20",
-        },
+        // {
+        //   title: "React Developer",
+        //   company: "Discover",
+        //   company_url: "https://www.discover.com/",
+        //   logo_path: "Discover.png",
+        //   duration: "Jan 2020 - Aug 2020",
+        //   location: "Chicago, Illinois",
+        //   description:
+        //     " Discover is an online bank providing one of the most attractive checking account offers in the industry.",
+        //   color: "#fc1f20",
+        // },
         {
           title: "React Developer",
           company: "Aspiration",
@@ -603,45 +614,45 @@ const experience = {
         },
       ],
     },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
-          description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
-      ],
-    },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+    //     {
+    //       title: "Machine Learning Intern",
+    //       company: "TikTok Inc.",
+    //       company_url: "https://www.tiktok.com/en/",
+    //       logo_path: "tiktok_logo.png",
+    //       duration: "May 2022 - Aug 2022",
+    //       location: "San Francisco, USA",
+    //       description:
+    //         "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+    //       color: "#000000",
+    //     },
+    //     {
+    //       title: "Data Science Research Intern",
+    //       company: "Delhivery Pvt. Ltd.",
+    //       company_url: "https://www.delhivery.com/",
+    //       logo_path: "delhivery_logo.png",
+    //       duration: "May 2019 - Sept 2019",
+    //       location: "Gurgaon, Haryana",
+    //       description:
+    //         "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+    //       color: "#ee3c26",
+    //     },
+    //     {
+    //       title: "Data Science Intern",
+    //       company: "Intel Indexer LLC",
+    //       company_url:
+    //         "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+    //       logo_path: "intel_logo.jpg",
+    //       duration: "Nov 2018 - Dec 2018",
+    //       location: "Work From Home",
+    //       description:
+    //         "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+    //       color: "#0071C5",
+    //     },
+    //   ],
+    // },
     // {
     //   title: "Volunteerships",
     //   experiences: [
