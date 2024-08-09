@@ -29,7 +29,7 @@ const greeting = {
   subTitle3:
     "My field of Interest's are building new Technologies and Products.",
   resumeLink:
-    "https://docs.google.com/document/d/1lMwQlovceEr5g4xlJCSFeFYa-6DFISo4/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/1wm3Ps99VpxC9etjLBDKp9SaWjYqktyh3/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
   portfolio_repository: "https://github.com/Chandrakyc",
   githubProfile: "https://github.com/Chandrakyc",
 };
