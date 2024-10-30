@@ -29,7 +29,7 @@ const greeting = {
   subTitle3:
     "My field of Interest's are building new Technologies and Products.",
   resumeLink:
-    "https://docs.google.com/document/d/1wm3Ps99VpxC9etjLBDKp9SaWjYqktyh3/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/1ejYY7Pr8s537iOQM9bhlLvWG61_WzXNV/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
   portfolio_repository: "https://github.com/Chandrakyc",
   githubProfile: "https://github.com/Chandrakyc",
 };
@@ -547,18 +547,29 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "React Native/ JS Developer",
-          company: "Verizon",
+          title: "React Native Developer",
+          company: "Walmart",
           company_url: "https://www.verizon.com/about",
-          logo_path: "verizon.png",
+          logo_path: "walmart.png",
           duration: "Jan 2024 - Aug 2024",
           location: "Dallas, Texas",
           description:
-            "Engages in the provision of communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide.",
+            "A multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States and 23 other countries.",
           color: "#0879bf",
         },
+        // {
+        //   title: "React Native/ JS Developer",
+        //   company: "Verizon",
+        //   company_url: "https://www.verizon.com/about",
+        //   logo_path: "verizon.png",
+        //   duration: "Jan 2024 - Aug 2024",
+        //   location: "Dallas, Texas",
+        //   description:
+        //     "Engages in the provision of communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide.",
+        //   color: "#0879bf",
+        // },
         {
-          title: "Native/React Native Developer",
+          title: "Native/React Native Developer Lead",
           company: "State of Michigan",
           company_url: "https://www.michigan.gov/som",
           logo_path: "SOM.png",
@@ -601,15 +612,26 @@ const experience = {
         //     " Discover is an online bank providing one of the most attractive checking account offers in the industry.",
         //   color: "#fc1f20",
         // },
+        // {
+        //   title: "React Developer",
+        //   company: "Aspiration",
+        //   company_url: "https://www.aspiration.com/",
+        //   logo_path: "Aspiration.png",
+        //   duration: "Apr 2019 - Dec 2019",
+        //   location: "Irving, Texas",
+        //   description:
+        //     "Aspiration is a nonbank financial institution that offers the Spend and Save account, one that has both checking and savings features.",
+        //   color: "#fc1f20",
+        // },
         {
-          title: "React Developer",
-          company: "Aspiration",
-          company_url: "https://www.aspiration.com/",
+          title: "Javascript Developer",
+          company: "AES Corporation",
+          company_url: "https://www.aes.com/",
           logo_path: "Aspiration.png",
-          duration: "Apr 2019 - Dec 2019",
-          location: "Irving, Texas",
+          duration: "June 2016 - June 2018",
+          location: "Hyderabad, India",
           description:
-            "Aspiration is a nonbank financial institution that offers the Spend and Save account, one that has both checking and savings features.",
+            "An American utility and power generation company that operates power plants, which it uses to generate and sell electricity to end users and intermediaries like utilities and industrial facilities.",
           color: "#fc1f20",
         },
       ],
@@ -789,7 +811,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    // link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
