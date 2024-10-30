@@ -549,7 +549,7 @@ const experience = {
         {
           title: "React Native Developer",
           company: "Walmart",
-          company_url: "https://www.verizon.com/about",
+          company_url: "https://corporate.walmart.com/about",
           logo_path: "walmart.png",
           duration: "Jan 2024 - Aug 2024",
           location: "Dallas, Texas",
