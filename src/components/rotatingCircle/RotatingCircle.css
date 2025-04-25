@@ -1,0 +1,96 @@
+.rotating-circle {
+  width: 150px; /* Outer circle size */
+  height: 150px;
+  /* border: 5px solid #0077b5; Outer circle border color */
+  border-radius: 50%; /* Make it a circle */
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: spin 12s linear infinite, bounce 32s ease-in-out infinite;
+  z-index: 9999; /* Ensure it appears above other elements */
+}
+
+.rotating-circle::before {
+  /* content: ""; Inner circle */
+  width: 100px; /* Inner circle size */
+  height: 100px;
+  border: 10px solid #125779; /* Inner circle border color */
+  border-radius: 50%; /* Make it a circle */
+  position: absolute;
+  background-color: white; /* Keep the inner circle transparent */
+}
+
+.circle-text {
+  position: absolute;
+  width: 150px; /* Match the outer circle size */
+  height: 150px;
+  border-radius: 50%; /* Make it circular */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: #0077b5; /* Text color */
+  text-align: center;
+}
+
+.circle-text span {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(0deg); /* Start text at the top */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-text span::before {
+  content: "Open for new opportunities"; /* Text content */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transform: rotate(0deg); /* Rotate text to align circularly */
+  white-space: nowrap;
+  font-size: 12px;
+  color: #0077b5;
+  letter-spacing: 1px;
+}
+
+.circle-text span span {
+  position: absolute;
+  transform-origin: center;
+  transform: rotate(90deg); /* Rotate text to align with the circle */
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes bounce {
+  0% {
+    top: 0%;
+    left: 0%;
+  }
+  25% {
+    top: 10%;
+    left: 90%;
+  }
+  50% {
+    top: 90%;
+    left: 50%;
+  }
+  75% {
+    top: 50%;
+    left: 10%;
+  }
+  100% {
+    top: 0%;
+    left: 0%;
+  }
+}

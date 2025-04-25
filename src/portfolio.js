@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Yasas Chandra Kakarla",
   logo_name: "Yasas Chandra Kakarla",
-  nickname: "Code Breaker",
+  // nickname: "Code Breaker",
   subTitle:
     "I'm a React Native Developer with Seven years of experience creating mobile apps for the iOS, Android, and Web platforms.",
   subTitle2:
@@ -29,7 +29,7 @@ const greeting = {
   subTitle3:
     "My field of Interest's are building new Technologies and Products.",
   resumeLink:
-    "https://docs.google.com/document/d/1ejYY7Pr8s537iOQM9bhlLvWG61_WzXNV/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/1q7tCC3KuraJ8rim4Dm-4HCJw948EatzF/edit?usp=drive_link&ouid=115572125053622027769&rtpof=true&sd=true",
   portfolio_repository: "https://github.com/Chandrakyc",
   githubProfile: "https://github.com/Chandrakyc",
 };
@@ -393,19 +393,6 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Jawaharlal Nehrn Technology, Hyderabad",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "jntuh.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2012 - 2016",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "https://jntuh.ac.in/",
-    },
-    {
       title: "Texas A & M University , Commerce",
       subtitle: "M.S. in Computer Science",
       logo_path: "tamuc.webp",
@@ -417,6 +404,19 @@ const degrees = {
         "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
       website_link: "https://www.tamuc.edu/",
+    },
+    {
+      title: "Jawaharlal Nehrn Technology, Hyderabad",
+      subtitle: "B.Tech. in Computer Engineering",
+      logo_path: "jntuh.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "2012 - 2016",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://jntuh.ac.in/",
     },
   ],
 };
