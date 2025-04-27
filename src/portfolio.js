@@ -547,6 +547,17 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "React JS Developer",
+          company: "Global Apps",
+          company_url: "https://www.globalappsinc.com/aboutus.php",
+          logo_path: "globalApps.png",
+          duration: "Nov 2024 - Present",
+          location: "Mckinney, Texas",
+          description:
+            "Engages in the provision of communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide.",
+          color: "#0879bf",
+        },
+        {
           title: "React Native Developer",
           company: "Walmart",
           company_url: "https://corporate.walmart.com/about",
@@ -557,17 +568,6 @@ const experience = {
             "A multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States and 23 other countries.",
           color: "#0879bf",
         },
-        // {
-        //   title: "React Native/ JS Developer",
-        //   company: "Verizon",
-        //   company_url: "https://www.verizon.com/about",
-        //   logo_path: "verizon.png",
-        //   duration: "Jan 2024 - Aug 2024",
-        //   location: "Dallas, Texas",
-        //   description:
-        //     "Engages in the provision of communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide.",
-        //   color: "#0879bf",
-        // },
         {
           title: "Native/React Native Developer Lead",
           company: "State of Michigan",
