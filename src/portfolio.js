@@ -183,7 +183,7 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
+          skillName: "React JS / Native",
           fontAwesomeClassname: "simple-icons:react",
           style: {
             color: "#61DAFB",
@@ -191,7 +191,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
@@ -211,23 +211,23 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
-            color: "#663399",
+            color: "#306998",
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
           style: {
-            color: "#02569B",
+            color: "#2C8EBB",
           },
         },
       ],
     },
     {
-      title: "Cloud Deployment Architecture",
+      title: "Cloud Deployment and Monitoring",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
@@ -262,6 +262,20 @@ const skills = {
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
             color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "Sentry",
+          fontAwesomeClassname: "simple-icons:sentry",
+          style: {
+            color: "#306998",
+          },
+        },
+        {
+          skillName: "Selinium",
+          fontAwesomeClassname: "simple-icons:selenium",
+          style: {
+            color: "#43B02A",
           },
         },
         {
@@ -322,13 +336,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:adobeillustrator",
           style: {
             color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
